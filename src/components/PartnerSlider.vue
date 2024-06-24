@@ -79,12 +79,12 @@
       ></span>
     </div>
     <img
-      src="/assets/grafik-home-3.png"
+      src="../assets/grafik-home-3.png"
       alt=""
       class="absolute -bottom-36 -left-36 w-1/4 z-0"
     />
     <img
-      src="/assets/grafik-home-3.png"
+      src="../assets/grafik-home-3.png"
       alt=""
       class="absolute -bottom-36 -right-36 w-1/4 z-0"
     />
