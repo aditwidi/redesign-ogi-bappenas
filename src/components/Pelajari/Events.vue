@@ -32,7 +32,7 @@
 import FilterButtons from './FilterButtons.vue'
 import InfoCard from './InfoCard.vue'
 import Pagination from './Pagination.vue'
-import cards from '/src/data/data.js'  // Importing the data
+import cards from '/src/data/data.js'  
 
 export default {
   components: {

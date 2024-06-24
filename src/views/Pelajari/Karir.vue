@@ -20,14 +20,14 @@
         <div class="my-5 flex justify-center items-center">
             <div class= "grid grid-cols-1 md:grid-cols-2 gap-8 my-5">
                 <Card
-                image="/src/assets/foto-loker.png"
+                image="/assets/foto-loker.png"
                 title="Lowongan Kerja" 
                 description="Daftar dan jadilah tim OGI."
                 linkText="Informasi lebih lanjut"
                 link="https://www.instagram.com/s/aGlnaGxpZ2h0OjE3ODc5Nzc4OTQ5MjU0ODIw?story_media_id=2792798205547609942_5571750346&igsh=bTV0ZHV2NWRuMjRw"
                 />
                 <Card 
-                image="/src/assets/foto-lomag.png" 
+                image="/assets/foto-lomag.png" 
                 title="Lowongan Magang" 
                 description="Menambah pengalaman dengan bergabung tim OGI"
                 linkText="Daftar sekarang juga"
