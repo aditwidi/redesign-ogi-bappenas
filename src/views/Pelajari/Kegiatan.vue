@@ -14,7 +14,7 @@
             /> 
             <div class="flex justify-center items-center p-4 bg-white rounded-border-20 shadow-lg border border-gray-300 mt-4 w-3/10 ">
             <div class="bg-red-100 p-2 rounded-full">
-                <img src="/src/assets/pin.svg" alt="Pin Icon" class="h-6 w-6">
+                <img src="/assets/pin.svg" alt="Pin Icon" class="h-6 w-6">
             </div>
             <span class="ml-3 text-black text-center font-jakarta font-bold" :style="{ fontSize : '20px'}">Jangan lupa untuk menandai kalender Anda untuk kegiatan mendatang!</span>
             </div>
