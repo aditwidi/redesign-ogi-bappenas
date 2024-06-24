@@ -29,7 +29,7 @@
             class="flex justify-center items-center bg-white h-44 w-44 rounded-3xl p-6"
           >
             <img
-              :src="`/src/assets/${partner.logo}`"
+              :src="`/assets/${partner.logo}`"
               alt=""
               class="max-h-fit flex items-center justify-center"
             />

@@ -28,7 +28,7 @@
               class="flex justify-center items-center bg-white text-center px-2 mx-2 rounded-md"
             >
               <img
-                :src="`/src/assets/${partner.logo}`"
+                :src="`/assets/${partner.logo}`"
                 :alt="partner.name"
                 class="h-20 w-20 pt-4 mb-4"
               />
@@ -46,7 +46,7 @@
                 class="flex justify-center items-center bg-white text-center px-2 mx-2 rounded-md mb-4"
               >
                 <img
-                  :src="`/src/assets/${partner.logo}`"
+                  :src="`/assets/${partner.logo}`"
                   :alt="partner.name"
                   class="h-20 w-20 pt-4 mb-4"
                 />
@@ -79,12 +79,12 @@
       ></span>
     </div>
     <img
-      src="../assets/grafik-home-3.png"
+      src="/assets/grafik-home-3.png"
       alt=""
       class="absolute -bottom-36 -left-36 w-1/4 z-0"
     />
     <img
-      src="../assets/grafik-home-3.png"
+      src="/assets/grafik-home-3.png"
       alt=""
       class="absolute -bottom-36 -right-36 w-1/4 z-0"
     />
