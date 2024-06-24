@@ -96,7 +96,7 @@
   import Footer from "../../components/Footer.vue";
   import ScrollButton from "../../components/ScrollButton.vue";
   import InfografisCard from "../../components/InfografisCard.vue";
-  import infografisData from '../../assets/data/infografis.json'; // Import the JSON file
+  import infografisData from '/assets/data/infografis.json'; // Import the JSON file
   
   export default {
     name: "Infografis",
