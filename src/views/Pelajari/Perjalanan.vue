@@ -43,11 +43,11 @@
             <h2 class="text-lg font-semibold mt-4 font-inter">2. Peluncuran RAN OGI 2020-2022</h2>
             <h2 class="text-lg font-semibold mt-4 font-inter">3. Terpilihnya 5 daerah di Indonesia dalam OGP Local</h2>
             <div class="flex space-x-4 mt-2 ml-5 font-inter text-neutral-2">
-              <LogoCard LogoSrc="/src/assets/bangai.png" alt="Kab. Banggai" label="Kab. Bangai" />
-              <LogoCard LogoSrc="/src/assets/semarang.png" alt="Kota Semarang" label="Kota Semarang" />
-              <LogoCard LogoSrc="/src/assets/ntb.png" alt="NTB" label="NTB" />
-              <LogoCard LogoSrc="/src/assets/sumbawa.png" alt="Sumbawa Barat" label="Sumbawa Barat" />
-              <LogoCard LogoSrc="/src/assets/brebes.png" alt="Kab. Brebes" label="Kab. Brebes" />
+              <LogoCard LogoSrc="/assets/bangai.png" alt="Kab. Banggai" label="Kab. Bangai" />
+              <LogoCard LogoSrc="/assets/semarang.png" alt="Kota Semarang" label="Kota Semarang" />
+              <LogoCard LogoSrc="/assets/ntb.png" alt="NTB" label="NTB" />
+              <LogoCard LogoSrc="/assets/sumbawa.png" alt="Sumbawa Barat" label="Sumbawa Barat" />
+              <LogoCard LogoSrc="/assets/brebes.png" alt="Kab. Brebes" label="Kab. Brebes" />
             </div>
             <p class="mt-4 ml-5 font-inter font-normal">
               <span class="text-primary-1 font-semibold">Open Government Partnership (OGP) Local</span> merupakan sebuah upaya untuk mendorong kolaborasi antara pemerintah daerah dengan masyarakat sipil dalam mewujudkan pemerintahan yang transparan, partisipatif, dan akuntabel.
