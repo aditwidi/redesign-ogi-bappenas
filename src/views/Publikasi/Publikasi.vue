@@ -9,28 +9,28 @@
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-5 my-5">
             <Card
-                image="/src/assets/news.jpg"
+                image="/assets/news.jpg"
                 title="OGI News"
                 description="Baca berita terkini terkait OGI."
                 linkText="Baca lebih lanjut"
                 link="/publikasi/ogi-news"
             />
             <Card
-                image="/src/assets/infografis.jpg"
+                image="/assets/infografis.jpg"
                 title="Infografis"
                 description="Hasil pengolahan dan analisis oleh tim OGI."
                 linkText="Lihat infografis"
                 link="/publikasi/infografis"
             />
             <Card
-                image="/src/assets/laporan kajian.jpg"
+                image="/assets/laporan kajian.jpg"
                 title="Laporan dan Kajian"
                 description="Laporan pelaksanaan dari kegiatan yang telah dilakukan."
                 linkText="Unduh Berkas"
                 link="/publikasi/laporan-dan-kajian"
             />
             <Card
-                image="/src/assets/IRM.jpg"
+                image="/assets/IRM.jpg"
                 title="IRM"
                 description="Independent Reporting Mechanism"
                 linkText="Unduh IRM"
