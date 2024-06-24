@@ -83,7 +83,7 @@
           description="International NGO Forum on Indonesian Development"
           logoSrc="logo-imfid.png"
         />
-        <LogoCard description="Komisi Informasi Pusat" logoSrc="logo-KIP.png" />
+        <LogoCard description="Komisi Informasi Pusat" logoSrc="logo-kip.png" />
         <LogoCard description="Kementrian PANRB" logoSrc="logo-panrb.png" />
       </div>
     </div>
