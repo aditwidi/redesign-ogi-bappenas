@@ -19,7 +19,7 @@
           yang terbuka dan dapat diakses oleh publik. Organisasi Masyarakat
           Sipil (OMS) juga akan melaporkan kegiatan ko-kreasi yang dilakukan
           bersama dengan Kementerian/Lembaga ke dalam sistem monitoring dan
-          evaluasi yang ada di website Open Government Indonesia.
+          evaluasi yang ada di website Open Government Indonesia. Berikut merupakan statistik jumlah pelaporan selama satu tahun terakhir.
         </p>
         <div class="justify-center items-center mx-8 my-8">
           <BarChart />
