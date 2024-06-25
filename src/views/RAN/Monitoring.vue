@@ -34,7 +34,7 @@
     <div class="flex justify-center items-center mt-12 md:mt-20">
       <InfoCard
         iconClass="/RAN/lock.svg"
-        title="Pelaporan Money OMS"
+        title="Pelaporan Monev OMS"
         link="/ran/monitoring-dan-evaluasi/OMS"
       />
     </div>
