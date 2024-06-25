@@ -134,23 +134,23 @@
             </h2>
             <div class="flex space-x-4 mt-2 ml-5 font-inter text-neutral-2">
               <LogoCard
-                LogoSrc="/src/assets/bangai.png"
+                LogoSrc="/assets/bangai.png"
                 alt="Kab. Banggai"
                 label="Kab. Bangai"
               />
               <LogoCard
-                LogoSrc="/src/assets/semarang.png"
+                LogoSrc="/assets/semarang.png"
                 alt="Kota Semarang"
                 label="Kota Semarang"
               />
-              <LogoCard LogoSrc="/src/assets/ntb.png" alt="NTB" label="NTB" />
+              <LogoCard LogoSrc="/assets/ntb.png" alt="NTB" label="NTB" />
               <LogoCard
-                LogoSrc="/src/assets/sumbawa.png"
+                LogoSrc="/assets/sumbawa.png"
                 alt="Sumbawa Barat"
                 label="Sumbawa Barat"
               />
               <LogoCard
-                LogoSrc="/src/assets/brebes.png"
+                LogoSrc="/assets/brebes.png"
                 alt="Kab. Brebes"
                 label="Kab. Brebes"
               />
