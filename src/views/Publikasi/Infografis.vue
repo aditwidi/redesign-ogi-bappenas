@@ -5,7 +5,7 @@
 
     <!-- Title Section -->
     <div class="h-[5vh]"></div>
-    <TitleSection link="/publikasi" linkText="PUBLIKASI OGI" heading="Infografis" :headingPrimary="false" />
+    <TitleSection link="/publikasi" linkText="PUBLIKASI OGI" heading="Infografik" :headingPrimary="false" />
 
     <!-- Search Bar and Filters -->
     <div class="container mx-auto flex justify-center items-center mt-5 px-4 gap-4">

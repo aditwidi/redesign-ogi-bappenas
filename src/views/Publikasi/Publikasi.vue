@@ -17,7 +17,7 @@
             />
             <Card
                 image="/assets/infografis.jpg"
-                title="Infografis"
+                title="Infografik"
                 description="Hasil pengolahan dan analisis oleh tim OGI."
                 linkText="Lihat infografis"
                 link="/publikasi/infografis"
